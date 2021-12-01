@@ -4,7 +4,9 @@
 `sudo apt install mariadb-server`
 
 `git clone https://github.com/Pohhnii/temperature-to-db.git`
+
 `cd ./temperature-to-db/source`
+
 `mvn clean install`
 
 ## Ausführung
