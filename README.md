@@ -1,7 +1,7 @@
 # temperature-to-db
 
 ## Installation
-`sudo apt install mariadb-server``
+`sudo apt install mariadb-server`
 
 `git clone https://github.com/Pohhnii/temperature-to-db.git`
 `cd ./temperature-to-db/source`
